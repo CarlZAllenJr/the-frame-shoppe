@@ -1,0 +1,61 @@
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe.config
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.pdb
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbprojAssemblyReference.cache
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMain.resources
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmFrame.resources
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMat.resources
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmCover.resources
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.Resources.resources
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.GenerateResource.cache
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.CoreCompileInputs.cache
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\School\Visual Basic\Programs I Made\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.pdb
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe.config
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.pdb
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMain.resources
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmFrame.resources
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMat.resources
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmCover.resources
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.Resources.resources
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.GenerateResource.cache
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.CoreCompileInputs.cache
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.pdb
+C:\Users\merci\Desktop\School\School - Copy\Visual Basic\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbprojAssemblyReference.cache
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe.config
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.pdb
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbprojAssemblyReference.cache
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMain.resources
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmFrame.resources
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMat.resources
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmCover.resources
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.Resources.resources
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.GenerateResource.cache
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.CoreCompileInputs.cache
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.exe
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.xml
+C:\Users\merci\Desktop\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.pdb
+E:\School\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe.config
+E:\School\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.exe
+E:\School\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.pdb
+E:\School\The Frame Shoppe\The Frame Shoppe\bin\Debug\The Frame Shoppe.xml
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.AssemblyReference.cache
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.SuggestedBindingRedirects.cache
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMain.resources
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmFrame.resources
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmMat.resources
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.frmCover.resources
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The_Frame_Shoppe.Resources.resources
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.GenerateResource.cache
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.vbproj.CoreCompileInputs.cache
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.exe
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.xml
+E:\School\The Frame Shoppe\The Frame Shoppe\obj\Debug\The Frame Shoppe.pdb
